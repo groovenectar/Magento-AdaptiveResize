@@ -2,12 +2,12 @@
 	"name": "groovenectar/magento-adaptiveresize",
 	"description": "magento-adaptiveresize",
 	"minimum-stability": "dev",
-  "authors": [
-    {
-      "name": "Reinos.nl Internet Media",
-      "homepage": "http://www.reinos.nl/"
-    }
-  ],
+	"authors": [
+		{
+			"name": "Reinos.nl Internet Media",
+			"homepage": "http://www.reinos.nl/"
+		}
+	],
 	"source": {
 		"url": "https://github.com/groovenectar/magento-adaptiveresize.git",
 		"type": "git",
