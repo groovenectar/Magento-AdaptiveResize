@@ -9,7 +9,7 @@
 		}
 	],
 	"source": {
-		"url": "https://github.com/groovenectar/magento-adaptiveresize.git",
+		"url": "git@github.com:groovenectar/magento-adaptiveresize.git",
 		"type": "git",
 		"reference": "master"
 	},
