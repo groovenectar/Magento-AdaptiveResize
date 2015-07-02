@@ -1,0 +1,19 @@
+{
+	"name": "groovenectar/Magento-AdaptiveResize",
+	"description": "Magento-AdaptiveResize",
+	"minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Reinos.nl Internet Media",
+      "homepage": "http://www.reinos.nl/"
+    }
+  ],
+	"source": {
+		"url": "https://github.com/groovenectar/Magento-AdaptiveResize.git",
+		"type": "git",
+		"reference": "master"
+	},
+	"require": {
+		"php": ">=5.3.3"
+	}
+}
