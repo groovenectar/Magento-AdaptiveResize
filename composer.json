@@ -1,5 +1,6 @@
 {
 	"name": "groovenectar/magento-adaptiveresize",
+	"type": "magento-module",
 	"description": "magento-adaptiveresize",
 	"minimum-stability": "dev",
 	"authors": [
