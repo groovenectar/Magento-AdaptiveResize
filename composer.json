@@ -1,6 +1,6 @@
 {
-	"name": "groovenectar/Magento-AdaptiveResize",
-	"description": "Magento-AdaptiveResize",
+	"name": "groovenectar/magento-adaptiveresize",
+	"description": "magento-adaptiveresize",
 	"minimum-stability": "dev",
   "authors": [
     {
@@ -9,7 +9,7 @@
     }
   ],
 	"source": {
-		"url": "https://github.com/groovenectar/Magento-AdaptiveResize.git",
+		"url": "https://github.com/groovenectar/magento-adaptiveresize.git",
 		"type": "git",
 		"reference": "master"
 	},
